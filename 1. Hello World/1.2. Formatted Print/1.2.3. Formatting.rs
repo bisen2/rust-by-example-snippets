@@ -16,6 +16,7 @@ impl Display for City {
     }
 }
 
+#[allow(dead_code)]
 #[derive(Debug)]
 struct Color {
     red: u8,

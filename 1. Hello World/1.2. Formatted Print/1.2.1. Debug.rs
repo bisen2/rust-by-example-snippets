@@ -14,6 +14,7 @@ struct Structure(i32);
 #[derive(Debug)]
 struct Deep(Structure);
 
+#[allow(dead_code)]
 #[derive(Debug)]
 struct Person<'a> {
     name: &'a str,
