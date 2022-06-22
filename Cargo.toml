@@ -1,0 +1,32 @@
+[package]
+name = "rust-by-example-snippets"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "1"
+path = "./1. Hello World/1. Hello World.rs"
+
+[[bin]]
+name = "1_1"
+path = "./1. Hello World/1.1. Comments.rs"
+
+[[bin]]
+name = "1_2"
+path = "./1. Hello World/1.2. Formatted Print/1.2. Formatted Print.rs"
+
+[[bin]]
+name = "1_2_1"
+path = "./1. Hello World/1.2. Formatted Print/1.2.1. Debug.rs"
+
+[[bin]]
+name = "1_2_2"
+path = "./1. Hello World/1.2. Formatted Print/1.2.2. Display.rs"
+
+[[bin]]
+name = "1_2_2_1"
+path = "./1. Hello World/1.2. Formatted Print/1.2.2.1. Testcase - List.rs"
+
+[[bin]]
+name = "1_2_3"
+path = "./1. Hello World/1.2. Formatted Print/1.2.3. Formatting.rs"
