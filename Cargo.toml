@@ -30,3 +30,19 @@ path = "./1. Hello World/1.2. Formatted Print/1.2.2.1. Testcase - List.rs"
 [[bin]]
 name = "1_2_3"
 path = "./1. Hello World/1.2. Formatted Print/1.2.3. Formatting.rs"
+
+[[bin]]
+name = "2"
+path = "./2. Primitives/2. Primitives.rs"
+
+[[bin]]
+name = "2_1"
+path = "./2. Primitives/2.1. Literals and Operators.rs"
+
+[[bin]]
+name = "2_2"
+path = "./2. Primitives/2.2. Tuples.rs"
+
+[[bin]]
+name = "2_3"
+path = "./2. Primitives/2.3. Arrays and Slices.rs"
