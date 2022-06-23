@@ -1,0 +1,5 @@
+image: gitpod/workspace-rust
+
+vscode:
+  extensions:
+    - rust-lang.rust-analyzer
