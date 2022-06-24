@@ -46,3 +46,31 @@ path = "./2. Primitives/2.2. Tuples.rs"
 [[bin]]
 name = "2_3"
 path = "./2. Primitives/2.3. Arrays and Slices.rs"
+
+[[bin]]
+name = "3"
+path = "./3. Custom Types/3. Custom Types.rs"
+
+[[bin]]
+name = "3_1"
+path = "./3. Custom Types/3.1. Structures.rs"
+
+[[bin]]
+name = "3_2"
+path = "./3. Custom Types/3.2. Enums/3.2. Enums.rs"
+
+[[bin]]
+name = "3_2_1"
+path = "./3. Custom Types/3.2. Enums/3.2.1. Use.rs"
+
+[[bin]]
+name = "3_2_2"
+path = "./3. Custom Types/3.2. Enums/3.2.2. C-like.rs"
+
+[[bin]]
+name = "3_2_3"
+path = "./3. Custom Types/3.2. Enums/3.2.3. Testcase - Linked List.rs"
+
+[[bin]]
+name = "3_3"
+path = "./3. Custom Types/3.3. Constants.rs"
