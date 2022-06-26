@@ -30,3 +30,23 @@ path = "./1. Hello World/1.2. Formatted Print/1.2.2.1. Testcase - List.rs"
 [[bin]]
 name = "1_2_3"
 path = "./1. Hello World/1.2. Formatted Print/1.2.3. Formatting.rs"
+
+[[bin]]
+name = "4"
+path = "./4. Variable Bindings/4. Variable Bindings.rs"
+
+[[bin]]
+name = "4_1"
+path = "./4. Variable Bindings/4.1. Mutability.rs"
+
+[[bin]]
+name = "4_2"
+path = "./4. Variable Bindings/4.2. Scope and Shadowing.rs"
+
+[[bin]]
+name = "4_3"
+path = "./4. Variable Bindings/4.3. Declare First.rs"
+
+[[bin]]
+name = "4_4"
+path = "./4. Variable Bindings/4.4. Freezing.rs"
