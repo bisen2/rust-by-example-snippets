@@ -66,3 +66,15 @@ path = "./5. Types/5.3. Inference.rs"
 [[bin]]
 name = "5_4"
 path = "./5. Types/5.4. Aliasing.rs"
+
+[[bin]]
+name = "6_1"
+path = "./6. Conversion/6.1. From and Into.rs"
+
+[[bin]]
+name = "6_2"
+path = "./6. Conversion/6.2. TryFrom and TryInto.rs"
+
+[[bin]]
+name = "6_3"
+path=  "./6. Conversion/6.3. To and From Strings.rs"
