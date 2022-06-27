@@ -77,4 +77,8 @@ path = "./6. Conversion/6.2. TryFrom and TryInto.rs"
 
 [[bin]]
 name = "6_3"
-path=  "./6. Conversion/6.3. To and From Strings.rs"
+path = "./6. Conversion/6.3. To and From Strings.rs"
+
+[[bin]]
+name = "7"
+path = "./7. Expressions/7. Expressions.rs"
