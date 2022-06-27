@@ -50,3 +50,19 @@ path = "./4. Variable Bindings/4.3. Declare First.rs"
 [[bin]]
 name = "4_4"
 path = "./4. Variable Bindings/4.4. Freezing.rs"
+
+[[bin]]
+name = "5_1"
+path = "./5. Types/5.1. Casting.rs"
+
+[[bin]]
+name = "5_2"
+path = "./5. Types/5.2. Literals.rs"
+
+[[bin]]
+name = "5_3"
+path = "./5. Types/5.3. Inference.rs"
+
+[[bin]]
+name = "5_4"
+path = "./5. Types/5.4. Aliasing.rs"
